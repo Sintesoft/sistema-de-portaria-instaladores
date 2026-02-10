@@ -5,6 +5,10 @@ Este documento une as orientacoes de operação do `Server` e do `UDPClient` par
 ## Objetivo
 Garantir que os computadores cliente consigam localizar o servidor e receber a configuração correta de conexao.
 
+## Download de arquivos
+- Server: https://github.com/Sintesoft/sistema-de-portaria-instaladores/blob/Dev/prjUDPClient.exe
+- Client: https://github.com/Sintesoft/sistema-de-portaria-instaladores/blob/Dev/prjUDPClient.exe
+
 ## Programas usados
 - `SistemaPortariaServer.exe` (executar no computador servidor)
 - `prjUDPClient.exe` (executar no cliente)
