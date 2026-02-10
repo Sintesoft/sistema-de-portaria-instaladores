@@ -12,10 +12,14 @@ Garantir que os computadores cliente consigam localizar o servidor e receber a c
 ## Fluxo recomendado
 1. No computador servidor, abra `SistemaPortariaServer.exe`.
 2. Confirme o icone na bandeja do Windows.
-![Exemplo do tray icon no Windows](trayServer.png)
+
+   ![Exemplo do tray icon no Windows](trayServer.png)
+
 3. No computador cliente, abra `prjUDPClient.exe`.
 4. No icone da bandeja do cliente, clique com o botao direito e escolha `Link Server`.
-![Exemplo do tray icon no Windows](trayClient.png)
+
+   ![Exemplo do tray icon no Windows](trayClient.png)
+
 5. Aguarde a mensagem final.
 6. Confirme se o status da configuracao aparece como `SUCESSO`.
 
@@ -39,4 +43,3 @@ Garantir que os computadores cliente consigam localizar o servidor e receber a c
 ## Regras praticas para o operador
 - Nao feche o servidor durante o expediente.
 - Evite alterar configuracoes manualmente sem orientacao.
-
